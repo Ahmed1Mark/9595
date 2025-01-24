@@ -1,0 +1,197 @@
+{
+  "prefix": "4!",
+  
+  "developerbot": [
+     "803873969168973855",
+     "274947190814670848"
+   ],
+  
+  "welcomeRoomId": "1236414743896653824",
+  
+  "rankbanner": "rank2.png",
+  
+  "suggestionschannel": "1317972173159272478",
+  "suggestionsreport": "1329260524340252703",
+  "accshinsug": "1329260799759483014",
+  
+  "welcomeLogChannelId": "1320844855592751135",
+  "ruleschannelid": "1026875367740407929",
+
+  "logChannelId": "1320844855592751135 ",
+  "TicketReportChannelId": "1317971223543812136",
+  "ServerReportChannelId": "1237562633692119191",
+  "TicketSaveChannelId": "1317971178886795354",
+  "TicketClaimChannelId": "1317971250337022054",
+  "levelUpChannelId": "1317972431205564537",
+  
+  "avatar_id": "1279586207025594634",
+  "server_image_id": "1279586207025594633",
+  "bot_id": "1237544234035445843",
+  "channel_info_id": "1247236462479540249",
+  "clear_id": "1237544234035445844",
+  "edit_message_id": "1247236462479540250",
+  "emoji_list_id": "1247236462479540251",
+  "member_list_id": "1244237120680230993",
+  "message_info_id": "1247236462479540254",
+  "ping_id": "1237544234035445846",
+  "role_info_id": "1247236462479540255",
+  "role_list_id": "1247236462915620975",
+  "say_id": "1285663869431447611",
+  "server_banner_id": "1237544234035445847",
+  "server_info_id": "1247236462915620977",
+  "tax_id": "1237544234471522375",
+  "test_welcome_id": "1247236462915620978",
+  "user_banner_idd": "1247236462915620979",
+  "user_info_id": "1247236462915620980",
+  
+    "categoryIDs": {
+    "ticket_1": "1320530102391410690",
+    "ticket_2": "1320530153532690545",
+    "ticket_3": "1320530235631992852",
+    "ticket_4": "1320530369149403249",
+    "ticket_5": "1320530309569318932",
+    "ticket_6": "1320530486782590988",
+    "ticket_7": "1320530562921791529",
+    "ticket_8": "1320530622816714853",
+    "ticket_9": "1320529901006225491",
+    "ticket_10": "1320529859864301712",
+    "ticket_11": "1320532418297462876",
+    "ticket_12": "1320529994891526276"
+  },
+  "selectMenuOptions": [
+    {
+      "label": "لجنة الرقابة 🕵️",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1320870734381449287/output-onlinepngtools_1.png?ex=676b2c3b&is=6769dabb&hm=73ba35417b3529ac0017b4e2bf4d522e434ce77eeca85b319a313d0f2fa5f0c4&",
+      "value": "ticket_1",
+      "rolesupport": "<@&1317975796870152234>",
+      "roleticketid": [
+        "1317975796870152234",
+        "1317975784245432461"
+      ],
+      "emoji": "🕵️"
+    },
+    {
+      "label": "طلب عقوبة إدارية ⚖️",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1320871285038911519/output-onlinepngtools_2.png?ex=676b2cbe&is=6769db3e&hm=479ea671cc0f92730ddccaf1a5000a44cd5f73e888e21dea818b5139001d561c&",
+      "value": "ticket_2",
+      "rolesupport": "<@&1317975791941980238>",
+      "roleticketid": [
+        "1317975791941980238",
+        "1317975784245432461"
+      ],
+      "emoji": "⚖️"
+    },
+    {
+      "label": "بلاغ ضد مخرب 🛡️",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1320871487934304396/output-onlinepngtools_3.png?ex=676b2cef&is=6769db6f&hm=59bda1989dace7938e9dd5e47962d418dba6764624c9bbfaf4492065ae8b8fb1&",
+      "value": "ticket_3",
+      "rolesupport": "<@&1317975807787929662>",
+      "roleticketid": [
+        "1317975807787929662",
+        "1317975784245432461"
+      ],
+      "emoji": "🛡️"
+    },
+    {
+      "label": "بلاغ عن مشكلة تقنية 💻",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1320866218055307325/output-onlinepngtools.png?ex=676b2806&is=6769d686&hm=f17a4f374a753aeb7d32c452b6a24972e015179e54bfb7266e6a0966fd18f159&",
+      "value": "ticket_4",
+      "rolesupport": "<@&1317975787449880657>",
+      "roleticketid": [
+        "1317975787449880657",
+        "1317975784245432461"
+      ],
+      "emoji": "💻"
+    },
+    {
+      "label": "طلب تعويض 💰",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1320871701776433182/output-onlinepngtools_4.png?ex=676b2d22&is=6769dba2&hm=7e86faa6fec587a787a809a7867320744a19fa5f4a703ef94e5dc60e2df2d2aa&",
+      "value": "ticket_5",
+      "rolesupport": "<@&1317975799428550787>",
+      "roleticketid": [
+        "1317975799428550787",
+        "1317975784245432461"
+      ],
+      "emoji": "💰"
+    },
+    {
+      "label": "تقديم لاعب معتمد ✅",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1320872153834328104/output-onlinepngtools_5.png?ex=676b2d8e&is=6769dc0e&hm=c87079cdc2bd04edc9b1192d491cbd26ad81f895e4a92e3e4398c4aa335ffde3&",
+      "value": "ticket_6",
+      "rolesupport": "<@&1320532552267858013>",
+      "roleticketid": [
+        "1320532552267858013",
+        "1317975784245432461"
+      ],
+      "emoji": "✅"
+    },
+    {
+      "label": "تقديم صانع محتوى 🎥",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1320872579648454676/output-onlinepngtools_6.png?ex=676b2df3&is=6769dc73&hm=5fb3b1e2bcb5fe93048600d51e730e22adf46dbdecd1b92404a04d5ed1b36488&",
+      "value": "ticket_7",
+      "rolesupport": "<@&1317987775357779998>",
+      "roleticketid": [
+        "1317987775357779998",
+        "1317975784245432461"
+      ],
+      "emoji": "🎥"
+    },
+    {
+      "label": "المواقع 🌐",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1320873094100811847/output-onlinepngtools_7.png?ex=676b2e6e&is=6769dcee&hm=5823c28242230fe95b8eb62d1ecec9eefa1e096cdf39558ecb7007bcfe63c445&",
+      "value": "ticket_8",
+      "rolesupport": "<@&1320532846385041510>",
+      "roleticketid": [
+        "1320532846385041510",
+        "1317975784245432461"
+      ],
+      "emoji": "🌐"
+    },
+    {
+      "label": "ادارة الشرطة 🏛️",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1320873442383233097/output-onlinepngtools_8.png?ex=676b2ec1&is=6769dd41&hm=f62e5d08873504e5ccdca494d0dd208f75e982a241e400a39f54c96ca7f3746e&",
+      "value": "ticket_9",
+      "rolesupport": "<@&1317975801467240618>",
+      "roleticketid": [
+        "1317975801467240618",
+        "1317975784245432461"
+      ],
+      "emoji": "🏛️"
+    },
+    {
+      "label": "الدفاع المدني ⚕️",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1320874890374414487/output-onlinepngtools_9.png?ex=676b301a&is=6769de9a&hm=4069ea71c4c64c078bb7c09509d2a25a2d47e1c238a2e7f596f50f0cfe1f2267&",
+      "value": "ticket_10",
+      "rolesupport": "<@&1317974174714822666>",
+      "roleticketid": [
+        "1317974174714822666",
+        "1317975784245432461"
+      ],
+      "emoji": "⚕️"
+    },
+    {
+      "label": "شركه رائد الحراسة 💂",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1320878764632047807/output-onlinepngtools_11.png?ex=676b33b6&is=6769e236&hm=5762e55eb00a0cef62f32dfb8d3ea24264cb0f3a10bf61aac48bb8d062fcb719&",
+      "value": "ticket_11",
+      "rolesupport": "<@&1319445726127718501>",
+      "roleticketid": [
+        "1319445726127718501",
+        "1317975784245432461"
+      ],
+      "emoji": "💂"
+    },
+    {
+      "label": "كراج الميكانيكي 🔧",
+      "embedimage": "https://cdn.discordapp.com/attachments/1254132794293092363/1320879058917261382/output-onlinepngtools_12.png?ex=676b33fc&is=6769e27c&hm=c9bc57c15733148faeaedbfad4c845cb6463cb43fb630c514b9430f197e02d2d&",
+      "value": "ticket_12",
+      "rolesupport": "<@&1317975421098262570>",
+      "roleticketid": [
+        "1317975421098262570",
+        "1317975784245432461"
+      ],
+      "emoji": "🔧"
+    }
+  ]
+}
+
+

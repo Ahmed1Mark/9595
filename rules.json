@@ -1,0 +1,17 @@
+[
+  {
+    "id": "Server Rules",
+    "title": "📜 Server Rules - قوانين السيرفر",
+    "description": "data/file1.txt"
+  },
+  {
+    "id": "AI Rules",
+    "title": "🤖 AI Rules - قوانين الأي أي",
+    "description": "data/file2.txt"
+  },
+  {
+    "id": "Ticket Rules",
+    "title": "🎫 Ticket Rules - قوانين التذكره",
+    "description": "data/file3.txt"
+  }
+]
